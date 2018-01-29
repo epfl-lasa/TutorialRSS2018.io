@@ -1,14 +1,14 @@
 # Site settings
-name: Slim Pickins Jekyll Theme
-email: 
-author: Chrisanthropic
+name: RSS-2018 tutorial on dynamical systems based learning from demonestration
+email: sina.mirrazavi@epfl.ch
+author: Seyed Sina Mirrazavi Salehian       
 
-keywords: jekyll, jekyll theme, jekyll framework, stuffthings
-description: Witty description here.
+keywords: RSS, Tutorial, 2018, learning from demonestration,  dynamical systems
+description: Thsi website provides the basic information regarding the RSS-2018 tutorial on dynamical systems based learning from demonestration.
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme"
+  url: "https://sinamr66.github.io/TutorialRSS2018.io/"
 
 header: yes
 header_sm: images/banner-small.jpg

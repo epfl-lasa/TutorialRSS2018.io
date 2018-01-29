@@ -1,0 +1,16 @@
+current directory: /home/sina/Dropbox/Sinas_stuff/Gaga & Borat Shared folder/Tutorial_RSS/webpage/vendor/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.3 -r ./siteconf20180129-11875-37842d.rb extconf.rb
+creating Makefile
+
+current directory: /home/sina/Dropbox/Sinas_stuff/Gaga & Borat Shared folder/Tutorial_RSS/webpage/vendor/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /home/sina/Dropbox/Sinas_stuff/Gaga & Borat Shared folder/Tutorial_RSS/webpage/vendor/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ryah_http_parser.c
+/bin/sh: 1: Borat: not found
+make: *** [ryah_http_parser.o] Error 127
+gcc: fatal error: no input files
+compilation terminated.
+
+make failed, exit code 2
