@@ -1,13 +1,12 @@
-- title: "feed"
+- title: "rss2"
   href: "https://sinamr66.github.io/TutorialRSS2018.io/atom.xml"
   
+- title: "mail"  
+  href: "mailto:sina.mirrazavi@epfl.ch"
+
 - title: "home"  
   href: "http://lasa.epfl.ch/"
 
-- title: "mail"  
-  href: "http://lasa.epfl.ch/"
-- title: "googleplus"
-  href: "#"
 
 #- title: "facebook"
 #  href: "#"
