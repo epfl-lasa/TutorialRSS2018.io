@@ -14,8 +14,8 @@ Gem::Specification.new do |s|
   s.homepage = "https://github.com/ahoward/open4".freeze
   s.licenses = ["Ruby".freeze]
   s.rubyforge_project = "codeforpeople".freeze
-  s.rubygems_version = "2.5.2".freeze
+  s.rubygems_version = "2.7.4".freeze
   s.summary = "open4".freeze
 
-  s.installed_by_version = "2.5.2" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.7.4" if s.respond_to? :installed_by_version
 end

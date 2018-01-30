@@ -19,4 +19,9 @@ if ARGV.first
   end
 end
 
-load Gem.bin_path('aws-sdk-core', 'aws.rb', version)
+if Gem.respond_to?(:activate_bin_path)
+load Gem.activate_bin_path('aws-sdk-core', 'aws.rb', version)
+else
+gem "aws-sdk-core", version
+load Gem.bin_path("aws-sdk-core", "aws.rb", version)
+end

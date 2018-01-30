@@ -15,8 +15,8 @@ Gem::Specification.new do |s|
   s.files = ["README".freeze]
   s.homepage = "http://rubyforge.org/projects/platform/".freeze
   s.required_ruby_version = Gem::Requirement.new("> 0.0.0".freeze)
-  s.rubygems_version = "2.5.2".freeze
+  s.rubygems_version = "2.7.4".freeze
   s.summary = "Hopefully robust platform sensing".freeze
 
-  s.installed_by_version = "2.5.2" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.7.4" if s.respond_to? :installed_by_version
 end

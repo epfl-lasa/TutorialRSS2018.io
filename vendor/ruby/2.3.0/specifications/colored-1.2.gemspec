@@ -12,8 +12,8 @@ Gem::Specification.new do |s|
   s.description = "  >> puts \"this is red\".red\n \n  >> puts \"this is red with a blue background (read: ugly)\".red_on_blue\n\n  >> puts \"this is red with an underline\".red.underline\n\n  >> puts \"this is really bold and really blue\".bold.blue\n\n  >> logger.debug \"hey this is broken!\".red_on_yellow     # in rails\n\n  >> puts Color.red \"This is red\" # but this part is mostly untested\n".freeze
   s.email = "chris@ozmm.org".freeze
   s.homepage = "http://github.com/defunkt/colored".freeze
-  s.rubygems_version = "2.5.2".freeze
+  s.rubygems_version = "2.7.4".freeze
   s.summary = "Add some color to your life.".freeze
 
-  s.installed_by_version = "2.5.2" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.7.4" if s.respond_to? :installed_by_version
 end

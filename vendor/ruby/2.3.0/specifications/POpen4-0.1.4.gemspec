@@ -15,10 +15,10 @@ Gem::Specification.new do |s|
   s.files = ["LICENSE".freeze, "README.rdoc".freeze]
   s.homepage = "http://github.com/pka/popen4".freeze
   s.rdoc_options = ["--charset=UTF-8".freeze]
-  s.rubygems_version = "2.5.2".freeze
+  s.rubygems_version = "2.7.4".freeze
   s.summary = "Open4 cross-platform".freeze
 
-  s.installed_by_version = "2.5.2" if s.respond_to? :installed_by_version
+  s.installed_by_version = "2.7.4" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
