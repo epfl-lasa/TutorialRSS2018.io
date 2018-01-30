@@ -2,100 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   
-  <url>
-    <loc>http://localhost:4000/blog/2014/using-_data-to-build-jekyll-navigation</loc>
-    
-    <lastmod>2014-12-10T04:34:33+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/integrating-compass-and-jekyll-without-plugins</loc>
-    
-    <lastmod>2014-12-10T00:20:40+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/integrating-the-foundation-zurb-grid-with-jekyll</loc>
-    
-    <lastmod>2014-12-09T05:24:51+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/an-s3-policy-to-block-semalt-referral-traffic</loc>
-    
-    <lastmod>2014-12-05T23:06:15+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/deploy-jekyll-to-s3-with-s3_website</loc>
-    
-    <lastmod>2014-12-05T20:01:42+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/rakefile-minimize-assets-and-optimize-images</loc>
-    
-    <lastmod>2014-12-05T01:38:13+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/mail-forwarding-with-mailgun-and-cloudflare</loc>
-    
-    <lastmod>2014-12-04T05:35:05+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/moving-from-github-pages-to-s3</loc>
-    
-    <lastmod>2014-12-04T02:17:18+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/add-sitemap-xml-to-jekyll</loc>
-    
-    <lastmod>2014-12-03T19:40:40+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/adding-google-analytics-to-octopress-3-0</loc>
-    
-    <lastmod>2014-12-03T04:38:10+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/octopress-blog-from-a-subdirectory</loc>
-    
-    <lastmod>2014-11-28T05:46:50+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/basic-customization</loc>
-    
-    <lastmod>2014-11-25T01:44:01+01:00</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/blog/2014/installing-octopress-3-0-from-scratch</loc>
-    
-    <lastmod>2014-11-24T01:44:01+01:00</lastmod>
-    
-  </url>
-  
   
   <url>
     <loc>http://localhost:4000/404.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/test.html</loc>
     
   </url>
   
@@ -171,71 +85,6 @@
   
   
   
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/installing-octopress-3-0-from-scratch</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/basic-customization</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/octopress-blog-from-a-subdirectory</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/adding-google-analytics-to-octopress-3-0</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/add-sitemap-xml-to-jekyll</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/moving-from-github-pages-to-s3</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/mail-forwarding-with-mailgun-and-cloudflare</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/rakefile-minimize-assets-and-optimize-images</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/deploy-jekyll-to-s3-with-s3_website</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/an-s3-policy-to-block-semalt-referral-traffic</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/integrating-the-foundation-zurb-grid-with-jekyll</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/integrating-compass-and-jekyll-without-plugins</loc>
-      
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/blog/2014/using-_data-to-build-jekyll-navigation</loc>
-      
-    </url>
   
   
   

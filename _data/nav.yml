@@ -1,9 +1,6 @@
 - title: "home"
   href: "/"
 
-- title: "blog"
-  href: "/blog/"
-
 - title: "documentation"
   subcategories:
     - subtitle: "sass"
@@ -23,10 +20,10 @@
     - subtitle: "SEO"
       subhref: "/documentation/seo.html"
 
-- title: "use"
+- title: "Program"
   subcategories:
-    - subtitle: "installation"
-      subhref: "/documentation/installation.html"
+    - subtitle: "Overview"
+      subhref: "/documentation/Overview.html"
     - subtitle: "configuration"
       subhref: "/documentation/configuration.html"
     - subtitle: "deployment"
@@ -34,12 +31,17 @@
     - subtitle: "basic use"
       subhref: "/documentation/use.html"
       
-- title: "external"
-  external: "http://www.jekyllrb.com"
+- title: "About us"
+  href: "/about/"
   
-- title: "Misc"
-  external-subcategories:
-    - subtitle: "Jekyll forums"
-      subhref: "https://talk.jekyllrb.com/"
-    - subtitle: "Source Code"
-      subhref: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"
+  
+      
+#- title: "external"
+#  external: "http://www.jekyllrb.com"
+  
+#- title: "Misc"
+#  external-subcategories:
+#    - subtitle: "Jekyll forums"
+#      subhref: "https://talk.jekyllrb.com/"
+#    - subtitle: "Source Code"
+ #     subhref: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"

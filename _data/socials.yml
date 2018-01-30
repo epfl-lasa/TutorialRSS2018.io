@@ -1,20 +1,22 @@
 - title: "feed"
-  href: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme/atom.xml"
+  href: "https://sinamr66.github.io/TutorialRSS2018.io/atom.xml"
+  
+- title: "home"  
+  href: "http://lasa.epfl.ch/"
 
+- title: "mail"  
+  href: "http://lasa.epfl.ch/"
 - title: "googleplus"
   href: "#"
 
-- title: "facebook"
-  href: "#"
+#- title: "facebook"
+#  href: "#"
   
-- title: "tumblr"
-  href: "#"
+#- title: "tumblr"
+#  href: "#"
   
-- title: "twitter"
-  href: "https://twitter.com/"
+#  href: "https://twitter.com/"
 
 - title: "github"
-  href: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"
+  href: "https://github.com/epfl-lasa/RSS2018Tutorial"
 
-- title: "linkedin"
-  href: "https://www.linkedin.com/in/ctarwater"
