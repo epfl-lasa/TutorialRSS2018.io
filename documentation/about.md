@@ -2,10 +2,10 @@
 layout: page
 permalink: /documentation/about.html
 header: yes
-header_sm: images/banner-xl2.jpg
-header_med: images/banner-xl2.jpg
-header_large: images/banner-xl2.jpg
-header_xl: images/banner-xl2.jpg
+header_sm: images/Header.png
+header_med: images/Header.png
+header_large: images/Header.png
+header_xl: images/Header.png
 --- 
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
 <table style="width: 800px; height: 96px;">

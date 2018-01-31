@@ -9,12 +9,47 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/documentation/Overview.html</loc>
+    <loc>http://localhost:4000/documentation/Introduction.html</loc>
     
   </url>
   
   <url>
-    <loc>http://localhost:4000/documentation/test.html</loc>
+    <loc>http://localhost:4000/documentation/Learning.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/Matlab_1.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/Matlab_2.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/Matlab_3.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/Modulation_motion.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/Modulation_obs.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/Modulation_tran.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/Overview.html</loc>
     
   </url>
   
@@ -24,37 +59,12 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/documentation/banner.html</loc>
-    
-  </url>
-  
-  <url>
     <loc>http://localhost:4000/Organizations/</loc>
     
   </url>
   
   <url>
-    <loc>http://localhost:4000/documentation/configuration.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/deploy.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/footer.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/grid.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/image-optim.html</loc>
+    <loc>http://localhost:4000/documentation/demos.html</loc>
     
   </url>
   
@@ -64,32 +74,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/documentation/installation.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/nav.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/rakefile.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/sass.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/seo.html</loc>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/documentation/use.html</loc>
+    <loc>http://localhost:4000/documentation/setup.html</loc>
     
   </url>
   

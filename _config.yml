@@ -8,14 +8,14 @@ description: Thsi website provides the basic information regarding the RSS-2018 
 
 # Only use this if you are serving your site via Github Pages
 github:
-#  url: "https://sinamr66.github.io/TutorialRSS2018.io/"
-url: "http://localhost:4000/"
+  url: "https://sinamr66.github.io/TutorialRSS2018.io/"
+#url: "http://localhost:4000/"
 
 header: yes
-header_sm: images/banner-small.jpg
-header_med: images/banner-med.jpg
-header_large: images/banner-large.jpg
-header_xl: images/banner-xl.jpg
+header_sm: images/Header.png
+header_med: images/Header.png
+header_large: images/Header.png
+header_xl: images/Header.png
 
 
 # Exclude our ruby stuff
