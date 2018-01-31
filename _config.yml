@@ -8,7 +8,7 @@ description: Thsi website provides the basic information regarding the RSS-2018 
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://sinamr66.github.io/TutorialRSS2018.io/"
+  url: "https://sinamr66.github.io/TutorialRSS2018.io"
 #url: "http://localhost:4000/"
 
 header: yes
