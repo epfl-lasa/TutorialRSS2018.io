@@ -23,7 +23,7 @@ header_xl: images/Header.png
 </tr>
 </tbody>
 </table>
-<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/documentation/Aude.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
+<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Aude.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
 <hr />
 <table style="width: 800px; height: 96px;">
 <tbody>
@@ -40,7 +40,7 @@ header_xl: images/Header.png
 </tr>
 </tbody>
 </table>
-<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/documentation/Nadia.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
+<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Nadia.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
 <hr />
 <table style="width: 800px; height: 96px;">
 <tbody>
@@ -57,4 +57,4 @@ header_xl: images/Header.png
 </tr>
 </tbody>
 </table>
-<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/documentation/Sina.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
+<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Sina.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
