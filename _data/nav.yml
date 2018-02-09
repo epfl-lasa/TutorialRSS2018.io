@@ -1,5 +1,5 @@
 - title: "home"
-  href: "index.html"
+  href: "/index.html"
 
 - title: "Program"
   href: "/documentation/Overview.html"
