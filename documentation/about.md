@@ -63,7 +63,7 @@ header_xl: images/Header.png
 <tbody>
 <tr style="height: 83.9333px;">
 <td style="width: 150px; height: 210px;">
-<h1 style="color: #5e9ca0;"><img src="images/klas.JPG" alt="" width="150" height="80" /></h1>
+<h1 style="color: #5e9ca0;"><img src="images/klas.jpg" alt="" width="150" height="80" /></h1>
 </td>
 <td style="width: 575px; height: 83.9333px;">
 <div class="speaker-name">Klas Kronander </div>

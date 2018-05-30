@@ -24,14 +24,14 @@ header_xl: images/Header.png
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
 <td class="column100 column2" data-column="column2"> <a href="Introduction.html">Introduction</a> </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> Aude Billard</a></td>
+<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
 <td class="column100 column2" data-column="column2">  <a href="Learning.html">Learning Dynamical Systems Based Motion Representations</a> </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> Aude Billard</a></td>
+<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
 
@@ -45,14 +45,14 @@ header_xl: images/Header.png
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
 <td class="column100 column2" data-column="column2"><a href="Modulation_obs.html">  Modulation of dynamical systems: Obstacle avoidance</a></td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> Aude Billard</a></td>
+<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
 <td class="column100 column2" data-column="column2"> <a href="Modulation_tran.html"> Modulation of dynamical systems: Non-contact/contact transitions</a> </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> Seyed Sina Mirrazavi Salehian</a></td>
+<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
 
@@ -73,7 +73,7 @@ header_xl: images/Header.png
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
 <td class="column100 column2" data-column="column2"><a href="Modulation_motion.html"> Modulation of dynamical systems: Motion planning</a>  </td>
-<td class="column100 column3" data-column="column3"><a href="about.html"> Nadia Figueroa</a></td>
+<td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
 
