@@ -73,7 +73,7 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
-<td class="column100 column2" data-column="column2"><a href="Modulation_motion.html"> Impedance/Hybrid Force Control with DS Part 1</a>  </td>
+<td class="column100 column2" data-column="column2"><a href="Impedance.html"> Impedance/Hybrid Force Control with DS Part 1</a>  </td>
 <td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
@@ -87,7 +87,7 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
-<td class="column100 column2" data-column="column2"><a href="Modulation_motion.html"> Impedance/Hybrid Force Control with DS Part 2</a>  </td>
+<td class="column100 column2" data-column="column2"><a href="Impedance.html"> Impedance/Hybrid Force Control with DS Part 2</a>  </td>
 <td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
@@ -96,14 +96,14 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
-<td class="column100 column2" data-column="column2"><a href="Matlab_3.html">Matlab excercise 4</a>   </td>
+<td class="column100 column2" data-column="column2"><a href="Matlab_4.html">Matlab excercise 4</a>   </td>
 <td class="column100 column3" data-column="column3">Everybody</td>
 <td class="column100 column4" data-column="column4">Yes</td>
 </tr>
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
-<td class="column100 column2" data-column="column2"><a href="Modulation_motion.html"> Discussion and Q&A</a>  </td>
+<td class="column100 column2" data-column="column2"><a href="Discussion.html"> Discussion and Q&A</a>  </td>
 <td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
