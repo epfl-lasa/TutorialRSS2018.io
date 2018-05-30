@@ -14,8 +14,8 @@
       subhref: "/documentation/Modulation_obs.html"
     - subtitle: "From Free Space to Contact"
       subhref: "/documentation/Modulation_tran.html"
-    - subtitle: "Motion Planning"
-      subhref: "/documentation/Modulation_motion.html"
+    - subtitle: "Impedance/Hybrid Force Control"
+      subhref: "/documentation/Impedance.html"
 
 - title: "excersices"
   subcategories:
@@ -27,6 +27,8 @@
       subhref: "/documentation/Matlab_2.html"
     - subtitle: "Excersice 3"
       subhref: "/documentation/Matlab_3.html"
+    - subtitle: "Excersice 4"
+      subhref: "/documentation/Matlab_4.html"
 
 - title: "Demos"
   href: "/documentation/demos.html"
