@@ -103,7 +103,7 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">??-??</td>
-<td class="column100 column2" data-column="column2"><a href="Modulation_motion.html"> Discussion and Q&amp A</a>  </td>
+<td class="column100 column2" data-column="column2"><a href="Modulation_motion.html"> Discussion and Q&A</a>  </td>
 <td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
