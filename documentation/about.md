@@ -58,3 +58,36 @@ header_xl: images/Header.png
 </tbody>
 </table>
 <p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Sina.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
+
+
+<tbody>
+<tr style="height: 83.9333px;">
+<td style="width: 150px; height: 210px;">
+<h1 style="color: #5e9ca0;"><img src="images/Klas.JPG" alt="" width="150" height="80" /></h1>
+</td>
+<td style="width: 575px; height: 83.9333px;">
+<div class="speaker-name">Klas Kronander </div>
+<div class="speaker-affiliation">Vicarious AI</div>
+<div class="speaker-affiliation">Email: <a href="mailto:klas.kronander@gmail.com">klas.kronander@gmail.com</a></div>
+<div class="speaker-affiliation">Webpage: <a href="https://www.vicarious.com/team_member/klas-kronander-phd/">https://www.vicarious.com/team_member/klas-kronander-phd/</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Klas.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
+
+
+<tbody>
+<tr style="height: 83.9333px;">
+<td style="width: 150px; height: 210px;">
+<h1 style="color: #5e9ca0;"><img src="images/lukas.JPG" alt="" width="150" height="80" /></h1>
+</td>
+<td style="width: 575px; height: 83.9333px;">
+<div class="speaker-name">Lukas Huber</div>
+<div class="speaker-affiliation">EPFL, MIT</div>
+<div class="speaker-affiliation">Email: <a href="mailto:lukas.huber@epfl.ch">lukas.huber@epfl.ch</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Lukas.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
