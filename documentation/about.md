@@ -58,8 +58,8 @@ header_xl: images/Header.png
 </tbody>
 </table>
 <p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Sina.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
-
-
+<hr />
+<table style="width: 800px; height: 96px;">
 <tbody>
 <tr style="height: 83.9333px;">
 <td style="width: 150px; height: 210px;">
@@ -75,8 +75,8 @@ header_xl: images/Header.png
 </tbody>
 </table>
 <p style="color: #5e9ca0;"><span style="color: #000000;">Short Bio: <a href="#" onClick="MyWindow=window.open('/TutorialRSS2018.io//documentation/Klas.html','pagename','resizable,height=400,width=600'); return false;">Click to show</a></span></p>
-
-
+<hr />
+<table style="width: 800px; height: 96px;">
 <tbody>
 <tr style="height: 83.9333px;">
 <td style="width: 150px; height: 210px;">
