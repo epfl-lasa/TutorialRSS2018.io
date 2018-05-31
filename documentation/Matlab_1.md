@@ -7,4 +7,4 @@ header_med: images/Header.png
 header_large: images/Header.png
 header_xl: images/Header.png
 --- 
-<h1>The first matlab excercise</h1>
+<h1>The first matlab exercise</h1>

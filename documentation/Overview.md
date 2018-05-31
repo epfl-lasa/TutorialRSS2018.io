@@ -37,7 +37,7 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">9:40-10:00</td>
-<td class="column100 column2" data-column="column2"> <a href="Matlab_1.html">Matlab excercise 1</a>   </td>
+<td class="column100 column2" data-column="column2"> <a href="Matlab_1.html">Matlab exercise 1</a>   </td>
 <td class="column100 column3" data-column="column3">Everybody</td>
 <td class="column100 column4" data-column="column4">Yes</td>
 </tr>
@@ -66,7 +66,7 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">10:50-11:10</td>
-<td class="column100 column2" data-column="column2"> <a href="Matlab_2.html">Matlab excercise 2</a>   </td>
+<td class="column100 column2" data-column="column2"> <a href="Matlab_2.html">Matlab exercise 2</a>   </td>
 <td class="column100 column3" data-column="column3">Everybody</td>
 <td class="column100 column4" data-column="column4">Yes</td>
 </tr>
@@ -80,7 +80,7 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">11:30-11:50</td>
-<td class="column100 column2" data-column="column2"><a href="Matlab_3.html">Matlab excercise 3</a>   </td>
+<td class="column100 column2" data-column="column2"><a href="Matlab_3.html">Matlab exercise 3</a>   </td>
 <td class="column100 column3" data-column="column3">Everybody</td>
 <td class="column100 column4" data-column="column4">Yes</td>
 </tr>
@@ -96,7 +96,7 @@ header_xl: images/Header.png
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">12:10-12:30</td>
-<td class="column100 column2" data-column="column2"><a href="Matlab_4.html">Matlab excercise 4</a>   </td>
+<td class="column100 column2" data-column="column2"><a href="Matlab_4.html">Matlab exercise 4</a>   </td>
 <td class="column100 column3" data-column="column3">Everybody</td>
 <td class="column100 column4" data-column="column4">Yes</td>
 </tr>
