@@ -27,8 +27,6 @@
       subhref: "/documentation/Matlab_2.html"
     - subtitle: "Exercise 3"
       subhref: "/documentation/Matlab_3.html"
-    - subtitle: "Exercise 4"
-      subhref: "/documentation/Matlab_4.html"
 
 - title: "Demos"
   href: "/documentation/demos.html"
