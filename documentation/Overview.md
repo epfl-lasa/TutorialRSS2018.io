@@ -101,7 +101,7 @@ header_xl: images/Header.png
 </div>
 
 
-Note: The texts in the tables are links. If you want to have more information, please click on them.
+Note: The texts in the table are links. If you want to have more information, please click on them.
 
 <!--===============================================================================================-->	
 <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
