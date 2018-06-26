@@ -13,4 +13,4 @@ header_xl: images/Header.png
 
 <p> Link to download protected presentation slides: </p>
 
-<p> Link to video: Coming on Friday June 29th, 2018 </p>
+<p> Link to video: <font color="red"> Coming on Friday June 29th, 2018 </font> </p>
