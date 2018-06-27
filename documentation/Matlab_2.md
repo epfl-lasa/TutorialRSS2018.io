@@ -36,3 +36,4 @@ p.big {
 <p style="text-align: left;"><span style="background-color: #ffffff; color: #000000; font-family: times\ new\ roman, times; font-size: 9pt;"><em>git clone https://github.com/sinamr66/CoDS_illustrative_example.git</em></span></p>
 <p style="text-align: left;"><span style="background-color: #ffffff; color: #000000; font-family: times\ new\ roman, times; font-size: 9pt;"><em>git checkout GUI_guid</em></span></p>
 <p style="text-align: left;"><span style="font-family: times\ new\ roman, times;">Link to video of presentation: </span><span style="color: red;"><span style="font-family: times\ new\ roman, times;"> Will be uploaded on Friday June 29th, 2018</span> </span></p>
+<p style="text-align: left;"><span style="font-family: times\ new\ roman, times;">For more information contact <strong> Sina Mirrazavi.</strong></span></p>
