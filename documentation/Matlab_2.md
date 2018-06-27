@@ -7,7 +7,21 @@ header_med: images/Header.png
 header_large: images/Header.png
 header_xl: images/Header.png
 --- 
-<h1>The second matlab exercise</h1>
-
-
-
+<p>--- layout: page permalink: /documentation/Matlab_2.html header: yes header_sm: images/Header.png header_med: images/Header.png header_large: images/Header.png header_xl: images/Header.png ---</p>
+<h1>Modulation of dynamical systems: Non-contact/contact transitions, Matlab exercise</h1>
+<p>The core idea of having this package is to provide a simple and flexible tool for the curious readers to assess the performance of DS based contact controller which was proposed in</p>
+<p><a href="https://infoscience.epfl.ch/record/255068/files/RAL.pdf">Mirrazavi Salehian, S. S. and Billard, A. (2018) A Dynamical System Based Approach for Controlling Robotic Manipulators During Non-contact/Contact Transitions. IEEE Robotics and Automation Letters (RA-L).</a></p>
+<p>in different scenarios. You can find the corresponding slides in <a href="https://epfl-lasa.github.io/TutorialRSS2018.io/documentation/Modulation_tran.html/">Here</a>.</p>
+<h2>How to clone</h2>
+<p>This package contains a set of submodules. In order to clone the package, just run the following run:</p>
+<p><em>&nbsp;git clone git@github.com:epfl-lasa/RSS2018Tutorial.git</em></p>
+<p>Or if the ssh access has not been set up on your PC</p>
+<p><em>&nbsp;git clone https://github.com/epfl-lasa/RSS2018Tutorial.git</em></p>
+<p>Then you need to initialize the submodules. So:</p>
+<p><em>cd RSS2018Tutorial </em></p>
+<p><em>git submodule init </em></p>
+<p><em>git submodule update</em></p>
+<p><strong>Note: This package is heavy as it contains the presentations. If you only want to donwload the exercise, you just simply need clone the source package:</strong></p>
+<p><em>git clone https://github.com/sinamr66/CoDS_illustrative_example.git</em></p>
+<p><em>git checkout GUI_guid</em></p>
+<p>Link to video of presentation: <span style="color: red;"> Will be uploaded on Friday June 29th, 2018 </span></p>
