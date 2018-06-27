@@ -7,7 +7,6 @@ header_med: images/Header.png
 header_large: images/Header.png
 header_xl: images/Header.png
 --- 
-<p>--- layout: page permalink: /documentation/Matlab_2.html header: yes header_sm: images/Header.png header_med: images/Header.png header_large: images/Header.png header_xl: images/Header.png ---</p>
 <h1>Modulation of dynamical systems: Non-contact/contact transitions, Matlab exercise</h1>
 <p>The core idea of having this package is to provide a simple and flexible tool for the curious readers to assess the performance of DS based contact controller which was proposed in</p>
 <p><a href="https://infoscience.epfl.ch/record/255068/files/RAL.pdf">Mirrazavi Salehian, S. S. and Billard, A. (2018) A Dynamical System Based Approach for Controlling Robotic Manipulators During Non-contact/Contact Transitions. IEEE Robotics and Automation Letters (RA-L).</a></p>
