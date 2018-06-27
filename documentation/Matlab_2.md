@@ -32,7 +32,7 @@ p.big {
 <p style="text-align: left;"><span style="background-color: #ffffff; color: #000000; font-family: times\ new\ roman, times; font-size: 9pt;"><em>git submodule init </em></span></p>
 <p style="text-align: left;"><span style="background-color: #ffffff; color: #000000; font-family: times\ new\ roman, times; font-size: 9pt;"><em>git submodule update</em></span></p>
 </p>
-<p style="text-align: left;"><span style="font-family: times\ new\ roman, times;"><strong>Note: This package is heavy as it contains the presentations. If you only want to donwload the exercise, you just simply need clone the source package:</strong></span></p>
+<p style="text-align: left;"><span style="font-family: times\ new\ roman, times;"><strong>Note: This package is heavy as it contains the presentations. If you only want to donwload the exercise, you simply need to clone the source package:</strong></span></p>
 <p style="text-align: left;"><span style="background-color: #ffffff; color: #000000; font-family: times\ new\ roman, times; font-size: 9pt;"><em>git clone https://github.com/sinamr66/CoDS_illustrative_example.git</em></span></p>
 <p style="text-align: left;"><span style="background-color: #ffffff; color: #000000; font-family: times\ new\ roman, times; font-size: 9pt;"><em>git checkout GUI_guid</em></span></p>
 <p style="text-align: left;"><span style="font-family: times\ new\ roman, times;">Link to video of presentation: </span><span style="color: red;"><span style="font-family: times\ new\ roman, times;"> Will be uploaded on Friday June 29th, 2018</span> </span></p>
