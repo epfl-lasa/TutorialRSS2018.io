@@ -8,7 +8,7 @@ header_large: images/Header.png
 header_xl: images/Header.png
 --- 
 <h1 style="text-align: left;">Modulation of dynamical systems: Non-contact/contact transitions</h1>
-<p style="text-align: left;">The core idea of having this package is to provide a simple and flexible tool for the curious readers to assess the performance of DS based contact controller which was proposed in</p>
+<p style="text-align: left;">The core idea of having this part is to illustrate a simple and flexible tool for the curious readers to assess the performance of DS based contact controller which was proposed in</p>
 <blockquote>
 <p><a href="https://infoscience.epfl.ch/record/255068/files/RAL.pdf"><span style="color: #3366ff;">Mirrazavi Salehian, S. S. and Billard, A. (2018) A Dynamical System Based Approach for Controlling Robotic Manipulators During Non-contact/Contact Transitions. IEEE Robotics and Automation Letters (RA-L).</span></a></p>
 </blockquote>
