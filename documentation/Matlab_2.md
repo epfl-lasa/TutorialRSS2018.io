@@ -15,15 +15,15 @@ header_xl: images/Header.png
 <p>This package contains a set of submodules. In order to clone the package, just run the following run:</p>
 ```
 <p>&nbsp;</p>
-<p><em>&nbsp;git clone <a href="https://github.com/epfl-lasa/RSS2018Tutorial.git">https://github.com/epfl-lasa/RSS2018Tutorial.git</a></em></p>
-<p><em>cd RSS2018Tutorial </em></p>
-<p><em>git submodule init </em></p>
-<p><em>git submodule update</em></p>
+git clone <a href="https://github.com/epfl-lasa/RSS2018Tutorial.git">https://github.com/epfl-lasa/RSS2018Tutorial.git
+cd RSS2018Tutorial
+git submodule init
+git submodule update
 ```
 <p><strong>Note: This package is heavy as it contains the presentations. If you only want to donwload the exercise, you simply need to clone the source package:</strong></p>
 ```
-<p><em>git clone <a href="https://github.com/sinamr66/CoDS_illustrative_example.git">https://github.com/sinamr66/CoDS_illustrative_example.git</a></em></p>
-<p><em>git checkout GUI_guid</em></p>
+git clone <a href="https://github.com/sinamr66/CoDS_illustrative_example.git">https://github.com/sinamr66/CoDS_illustrative_example.git
+git checkout GUI_guid
 ```
 <h3><em>Running the GUI</em></h3>
 <p>A guided video explaining how to use the GUI, can be found in the following youtube link.</p>
