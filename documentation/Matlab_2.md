@@ -28,6 +28,6 @@ git checkout GUI_guid
 <h3><em>Running the GUI</em></h3>
 <p>A guided video explaining how to use the GUI, can be found in the following youtube link.</p>
 
-<p><iframe src="https://www.youtube.com/embed/eAcXKDPbpZg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/eAcXKDPbpZg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <p>For more information contact <strong><a href="http://lasa.epfl.ch/people/member.php?SCIPER=233855"> Sina Mirrazavi</a>.</strong></p>
