@@ -10,7 +10,7 @@ header_xl: images/Header.png
 <h1>Learning Dynamical Systems Motion Representations</h1>
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/rve1eRPWEF5QGt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nadiabarbara9/learning-dynamical-systems-from-demonstrations" title="Learning Dynamical Systems from Demonstrations" target="_blank">Learning Dynamical Systems from Demonstrations</a> </strong> from <strong><a href="https://www.slideshare.net/nadiabarbara9" target="_blank">Nadia Figueroa</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/EMz6DjqSLp1jyr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nadiabarbara9/lecture-1-learning-dynamical-systems-from-demonstrations" title="Lecture 1 - Learning Dynamical Systems from Demonstrations" target="_blank">Lecture 1 - Learning Dynamical Systems from Demonstrations</a> </strong> from <strong><a href="https://www.slideshare.net/nadiabarbara9" target="_blank">Nadia Figueroa</a></strong> </div>
 
 <p> Link to download presentation slides:  <a href="https://github.com/epfl-lasa/RSS2018Tutorial/tree/master/Presentations">here</a> </p>
 
