@@ -15,14 +15,14 @@ header_xl: images/Header.png
 <p>This package contains a set of submodules. In order to clone the package, just run the following run:</p>
 ```
 <p>&nbsp;</p>
-git clone <a href="https://github.com/epfl-lasa/RSS2018Tutorial.git">https://github.com/epfl-lasa/RSS2018Tutorial.git
+git clone https://github.com/epfl-lasa/RSS2018Tutorial.git
 cd RSS2018Tutorial
 git submodule init
 git submodule update
 ```
 <p><strong>Note: This package is heavy as it contains the presentations. If you only want to donwload the exercise, you simply need to clone the source package:</strong></p>
 ```
-git clone <a href="https://github.com/sinamr66/CoDS_illustrative_example.git">https://github.com/sinamr66/CoDS_illustrative_example.git
+git clone https://github.com/sinamr66/CoDS_illustrative_example.git
 git checkout GUI_guid
 ```
 <h3><em>Running the GUI</em></h3>
