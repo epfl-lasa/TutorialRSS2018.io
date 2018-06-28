@@ -8,8 +8,6 @@ header_large: images/Header.png
 header_xl: images/Header.png
 --- 
 
-# Introduction
-
 The [github repository](https://github.com/epfl-lasa/RSS2018Tutorial) contains code and information for several Matlab exercises that highlight some of the concepts will be presented in the tutorial on Dynamical system bases learning from demonstrations at RSS 2016.
 
 Each exercise has its own dependencies. We recommend to follow the corresponding README files for each exercise:  Namely [Exercise 1](https://github.com/epfl-lasa/RSS2018Tutorial/blob/master/Exercise_1/README.md), [Exercise 2](https://github.com/epfl-lasa/RSS2018Tutorial/blob/master/Exercise_2/README.md) and [Exercise 3](https://github.com/epfl-lasa/RSS2018Tutorial/blob/master/Exercise_3/README.md).
