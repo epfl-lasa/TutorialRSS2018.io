@@ -88,7 +88,7 @@ header_xl: images/Header.png
 
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">13:00-13:15</td>
+<td class="column100 column1" data-column="column1">12:45-13:00</td>
 <td class="column100 column2" data-column="column2"><a href="Discussion.html"> Discussion and Q&A</a>  </td>
 <td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
