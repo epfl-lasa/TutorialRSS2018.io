@@ -14,7 +14,6 @@ header_xl: images/Header.png
 <h2>Installation Instructions</h2>
 <p>This package contains a set of submodules. In order to clone the package, just run the following run:</p>
 ```
-<p>&nbsp;</p>
 git clone https://github.com/epfl-lasa/RSS2018Tutorial.git
 cd RSS2018Tutorial
 git submodule init
