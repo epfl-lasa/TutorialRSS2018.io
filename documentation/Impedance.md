@@ -14,3 +14,4 @@ header_xl: images/Header.png
 <p> Link to download presentation slides:  <a href="http://lasa.epfl.ch/files/Presentations/Impedance_final.pptm">here</a> </p>
 
 <p> Link to video of presentation: <font color="red"> Will be uploaded on Friday June 29th, 2018 </font> </p>
+
