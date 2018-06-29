@@ -23,7 +23,7 @@ Type  ``` gui_learningDS.m``` in the command line or run the script. This will b
 - Option to simulate controlling a robot with the learned DS.
 
 *A guided video explaining how to use the GUI, can be found in the following youtube link.* 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5fQO9Oluih0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p style="text-align: center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/5fQO9Oluih0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </p>
 
 
 **References**     
