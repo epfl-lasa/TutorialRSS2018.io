@@ -86,13 +86,6 @@ header_xl: images/Header.png
 <td class="column100 column4" data-column="column4">No</td>
 </tr>
 
-<tr class="row100">
-<td class="column100 column1" data-column="column1">12:45-13:00</td>
-<td class="column100 column2" data-column="column2"><a href="Matlab_3.html">Matlab exercise 3</a>   </td>
-<td class="column100 column3" data-column="column3">Everybody</td>
-<td class="column100 column4" data-column="column4">Yes</td>
-</tr>
-
 
 <tr class="row100">
 <td class="column100 column1" data-column="column1">13:00-13:15</td>
