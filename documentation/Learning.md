@@ -14,4 +14,5 @@ header_xl: images/Header.png
 
 <p> Link to download presentation slides:  <a href="http://lasa.epfl.ch/files/Presentations/Learning_updated.pptm">here</a> </p>
 
-<p> Link to video of presentation: <font color="red"> Will be uploaded on Friday June 29th, 2018 </font> </p>
+<p> Link to video of presentation: </p>
+<p style="text-align: center;">  <iframe width="560" height="315" src="https://www.youtube.com/embed/l-H9OQBCpbk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </p>
