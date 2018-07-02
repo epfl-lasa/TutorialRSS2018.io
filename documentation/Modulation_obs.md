@@ -13,4 +13,5 @@ header_xl: images/Header.png
 
 <p> Link to download presentation slides:  <a href="http://lasa.epfl.ch/files/Presentations/Modulation%20-%20Part_1.pptx">here</a> </p>
 
-<p> Link to video of presentation: <font color="red"> Will be uploaded on Friday June 29th, 2018 </font> </p>
+<p> Link to video of presentation: </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fKLhzgeBac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
